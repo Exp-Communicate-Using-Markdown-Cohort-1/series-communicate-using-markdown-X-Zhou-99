@@ -8,3 +8,16 @@ Should use html tags!
 <p align = "center">
   <img width="300" height="300" src="https://octodex.github.com/images/yaktocat.png">
 </p>
+
+
+## Step 2: Add code snipet
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+What about other codes?
+
+```
+p <- ggplot(data, aes(x = width, y = height, color = group)) + geom_point()
+```
