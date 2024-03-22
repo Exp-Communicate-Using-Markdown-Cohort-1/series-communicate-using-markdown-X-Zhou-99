@@ -21,3 +21,16 @@ What about other codes?
 ```
 p <- ggplot(data, aes(x = width, y = height, color = group)) + geom_point()
 ```
+
+
+## Step 3: Make a task list
+Today's list is the following:
+
+- [x] Prepare meeting with V.
+- [ ] Prepare meeting with B.
+
+- [ ] Think about the new empirical exercise.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
